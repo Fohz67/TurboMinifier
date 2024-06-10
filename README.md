@@ -1,4 +1,4 @@
-# TurboMinifier
+# obfuscate_minify.sh
 ## Obfuscate and Minify Script
 
 
@@ -38,7 +38,3 @@ Files with the `script.user.js` extension will be copied as-is without modificat
 
 - The script recursively traverses all files in the input directory.
 - Ensure that the input and output paths are correct and exist before running the script.
-
-## Contribution
-
-Contributions are welcome. Feel free to open an issue or a pull request for any improvements or bugs.
